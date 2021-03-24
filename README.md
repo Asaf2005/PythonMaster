@@ -1,2 +1,2 @@
 # PythonMaster
-A lot of useful codes for python3
+A lot of useful codes and projects for python3
